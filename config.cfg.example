@@ -1,0 +1,14 @@
+[twitch]
+username = your_username_here
+token = oauth:token_here
+channel = broadcaster_username_here
+
+[obs]
+host = localhost
+port = 4444
+password = secret
+
+[scenes]
+catcam = Cat Camera
+brb = Be Right Back
+scene_id = Scene Name in OBS
